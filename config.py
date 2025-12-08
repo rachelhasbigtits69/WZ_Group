@@ -150,7 +150,7 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = "http://github.com/mirrorbottest2/WZ_Leech"
+UPSTREAM_REPO = "http://github.com/mirrorbottest2/WZ_Group"
 UPSTREAM_BRANCH = "wzv3"
 UPDATE_PKGS = True
 
