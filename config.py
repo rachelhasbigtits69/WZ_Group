@@ -12,7 +12,7 @@ TG_PROXY = (
 )  # {"scheme": â€socks5â€, "hostname": â€â€, "port": 1234, "username": â€userâ€, "password": â€passâ€}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
+AUTHORIZED_CHATS = "-1002184309262"
 SUDO_USERS = ""
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
