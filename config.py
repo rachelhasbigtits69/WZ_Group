@@ -175,9 +175,9 @@ MIRROR_LOG_ID = ""
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 90000
 #BASE_URL = "https://popular-rachel-twisted-fairy-94093a16.koyeb.app/"
-BASE_URL = "http://arrogant-frederica-testarthav69-41482dbe.koyeb.app/"
+BASE_URL = "http://gleaming-hestia-eleven69-3dd02a45.koyeb.app/"
 BASE_URL_PORT = 80
-WEB_PINCODE = False
+WEB_PINCODE = True
 
 # Queueing system
 QUEUE_ALL = 6
