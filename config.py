@@ -150,9 +150,9 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = "http://github.com/mirrorbottest2/WZ_Group"
+UPSTREAM_REPO = "https://github.com/rachelhasbigtits69/WZ_Group/"
 UPSTREAM_BRANCH = "wzv3"
-UPDATE_PKGS = True
+UPDATE_PKGS = False
 
 # Leech
 LEECH_SPLIT_SIZE = 0
