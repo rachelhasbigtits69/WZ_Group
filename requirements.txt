@@ -40,3 +40,4 @@ uvicorn
 uvloop==0.21.0
 xattr
 yt-dlp[default,curl-cffi]
+starlette==0.49.3
